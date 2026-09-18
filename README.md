@@ -1,4 +1,4 @@
-# ppug
+# Slidedecks
 
 Welcome to the GitHub repository for Power Platform User Group Denamrk
 
